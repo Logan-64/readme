@@ -15,4 +15,4 @@ have  an  improvement  you  want  to  make?  developed  a  new  cog  that  you  
 
 ##  credit
 **main  code:**  me\
-**paged  view  for  playlist,  lyrics,  leaderboard,  etc:**  [rvzwn  on  stack  overflow](https://stackoverflow,com/a/77463524),  modified  by  me
+**paged  view  for  playlist,  lyrics,  leaderboard,  etc:**  [rvzwn  on  stack  overflow](https://stackoverflow.com/a/77463524),  modified  by  me
